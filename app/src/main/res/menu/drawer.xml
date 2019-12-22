@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home" android:icon="@drawable/home_icon" android:title="Home" />
+        <item android:id="@+id/attendance" android:icon="@drawable/attendance_icon" android:title="Attendance" />
+        <item android:id="@+id/marksSheet" android:icon="@drawable/markssheet_icon" android:title="Marks Sheet" />
+        <item android:id="@+id/calendar" android:icon="@drawable/calendar_icon" android:title="Calendar" />
+        <item android:id="@+id/classSchedule" android:icon="@drawable/classschedule_icon" android:title="Class Schedule"/>
+        <item android:id="@+id/teacherContact" android:icon="@drawable/teachercontact_icon" android:title="Teacher Contact"/>
+        <item android:id="@+id/logout" android:icon="@drawable/logout_icon" android:title="Logout"/>
+
+    </group>
+
+</menu>
